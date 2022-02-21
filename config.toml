@@ -1,0 +1,4 @@
+baseURL = 'http://amarjandu.com/'
+languageCode = 'en-us'
+title = 'amar'
+theme = 'cactus'
