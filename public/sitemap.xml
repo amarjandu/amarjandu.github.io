@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://amarjandu.com/</loc>
+    <loc>https://amarjandu.github.io/</loc>
     <lastmod>2022-02-21T15:43:09-08:00</lastmod>
   </url><url>
-    <loc>http://amarjandu.com/posts/deliberate/</loc>
+    <loc>https://amarjandu.github.io/posts/deliberate/</loc>
     <lastmod>2022-02-21T15:43:09-08:00</lastmod>
   </url><url>
-    <loc>http://amarjandu.com/posts/</loc>
+    <loc>https://amarjandu.github.io/posts/</loc>
     <lastmod>2022-02-21T15:43:09-08:00</lastmod>
   </url><url>
-    <loc>http://amarjandu.com/categories/</loc>
+    <loc>https://amarjandu.github.io/categories/</loc>
   </url><url>
-    <loc>http://amarjandu.com/tags/</loc>
+    <loc>https://amarjandu.github.io/tags/</loc>
   </url>
 </urlset>
