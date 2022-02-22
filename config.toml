@@ -1,4 +1,4 @@
-baseURL = 'http://amarjandu.com/'
+baseURL = 'https://amarjandu.github.io/'
 languageCode = 'en-us'
 title = 'amar'
 theme = 'cactus'
