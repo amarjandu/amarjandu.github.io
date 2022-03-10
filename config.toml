@@ -2,3 +2,11 @@ baseURL = 'https://amarjandu.github.io/'
 languageCode = 'en-us'
 title = 'amar'
 theme = 'cactus'
+
+[[params.social]]
+name = "github"
+link = "https://github.com/amarjandu"
+
+[[params.social]]
+name = "linkedin"
+link = "https://linkedin.com/in/amarjandu"
