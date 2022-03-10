@@ -10,3 +10,23 @@ link = "https://github.com/amarjandu"
 [[params.social]]
 name = "linkedin"
 link = "https://linkedin.com/in/amarjandu"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Writings"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
