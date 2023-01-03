@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on amar</title>
-    <link>https://amarjandu.github.io/posts/</link>
-    <description>Recent content in Posts on amar</description>
+    <title>testing on amar</title>
+    <link>https://amarjandu.github.io/tags/testing/</link>
+    <description>Recent content in testing on amar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Feb 2022 18:48:23 -0800</lastBuildDate><atom:link href="https://amarjandu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 18:48:23 -0800</lastBuildDate><atom:link href="https://amarjandu.github.io/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>doctests</title>
       <link>https://amarjandu.github.io/posts/doctests/</link>
@@ -15,15 +15,6 @@
       <guid>https://amarjandu.github.io/posts/doctests/</guid>
       <description>Consider some small function such as:
 def parse_string(input: str): try: name, value = input.split(&amp;#39;:&amp;#39;) except ValueError: name = input value = None assert name, input return name, value These utility functions typically have a small footprint, yet there can be dozens of them scattered in a codebase. Testing them directly within the test suite can be done, but if you start adding multiple files for multiple utility functions, the disassociation between proximity of definition and location of tests make it annoying to maintain.</description>
-    </item>
-    
-    <item>
-      <title>Deliberate</title>
-      <link>https://amarjandu.github.io/posts/deliberate/</link>
-      <pubDate>Mon, 21 Feb 2022 15:43:09 -0800</pubDate>
-      
-      <guid>https://amarjandu.github.io/posts/deliberate/</guid>
-      <description>Just a reminder to be intentional with time and deliberate in action.</description>
     </item>
     
   </channel>

@@ -6,7 +6,17 @@
     <description>Recent content on amar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 15:43:09 -0800</lastBuildDate><atom:link href="https://amarjandu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Mar 2022 23:28:59 +0000</lastBuildDate><atom:link href="https://amarjandu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>doctests</title>
+      <link>https://amarjandu.github.io/posts/doctests/</link>
+      <pubDate>Mon, 28 Feb 2022 18:48:23 -0800</pubDate>
+      
+      <guid>https://amarjandu.github.io/posts/doctests/</guid>
+      <description>Consider some small function such as:
+def parse_string(input: str): try: name, value = input.split(&amp;#39;:&amp;#39;) except ValueError: name = input value = None assert name, input return name, value These utility functions typically have a small footprint, yet there can be dozens of them scattered in a codebase. Testing them directly within the test suite can be done, but if you start adding multiple files for multiple utility functions, the disassociation between proximity of definition and location of tests make it annoying to maintain.</description>
+    </item>
+    
     <item>
       <title>Deliberate</title>
       <link>https://amarjandu.github.io/posts/deliberate/</link>
