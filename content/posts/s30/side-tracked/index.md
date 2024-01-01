@@ -2,6 +2,9 @@
 title: "Side Tracked"
 date: 2023-10-20T09:47:29-07:00
 draft: false
+tags: 
+  - s30
+  - cars
 series:
   - s30
 categories:

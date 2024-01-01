@@ -2,6 +2,9 @@
 title: "preparations"
 date: 2023-10-09T10:48:40-07:00
 draft: false
+tags: 
+  - s30
+  - cars
 series:
   - s30
 categories:

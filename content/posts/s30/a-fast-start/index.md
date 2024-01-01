@@ -2,6 +2,9 @@
 title: "A Fast Start"
 date: 2023-12-31T17:59:44-08:00
 draft: false
+tags: 
+  - s30
+  - cars
 series:
   - s30
 categories:
