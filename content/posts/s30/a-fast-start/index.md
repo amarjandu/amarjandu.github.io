@@ -2,6 +2,10 @@
 title: "A Fast Start"
 date: 2023-12-31T17:59:44-08:00
 draft: false
+series:
+  - s30
+categories:
+  - Personal
 ---
 
 I started working on the white chassis. As the car sits in front of me I've 
