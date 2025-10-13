@@ -8,15 +8,15 @@ tags:
 location: Home Garage
 ---
 
-Sometimes you have to be technical with how you approach your cut, going in  with your saw blazing mates it difficult to put things back together.
+Sometimes you have to be technical with how you approach your cut, going in with your saw blazing mates it difficult to put things back together.
 
 ![[assembled.jpeg]]
 
-
 My approach has been the following;
+
 1. Clean back as much as possible to expose how the joints are formed.
 2. Make a mental model of what I need to replace (there is a lot in this case)
-3. Drill reassembly holes for Cleo fasteners  
+3. Drill reassembly holes for Cleo fasteners
 4. Remove spot welds (punch, drill, spot weld cutter)
 5. Remove panels
 
