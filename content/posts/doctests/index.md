@@ -8,6 +8,7 @@ tags:
 ---
 
 Consider some small function such as:
+
 ```python
 def parse_string(input: str):
     try:
@@ -19,13 +20,13 @@ def parse_string(input: str):
     return name, value
 ```
 
-These utility functions typically have a small footprint, yet there can be 
-dozens of them scattered in a codebase. Testing them directly within the 
-test suite can be done, but if you start adding multiple files for multiple 
-utility functions, the disassociation between proximity of definition and 
+These utility functions typically have a small footprint, yet there can be
+dozens of them scattered in a codebase. Testing them directly within the
+test suite can be done, but if you start adding multiple files for multiple
+utility functions, the disassociation between proximity of definition and
 location of tests make it annoying to maintain.
 
-Enter [doctest](https://docs.python.org/3/library/doctest.html), this module 
+Enter [doctest](https://docs.python.org/3/library/doctest.html), this module
 enables tests be embedded into docstrings. The proximity to the code definition
 makes it really easy to maintain the tests, it's great!
 
@@ -54,22 +55,23 @@ def parse_string(input: str):
     return name, value
 ```
 
-This kind of testing also can help with an interview process, typically 
-interviewers are looking for developers to mention testing the code that they 
-write (it's probably one of those checkbox item things don't ask me I dont 
-interview much ha!). When your interviewer is sharing the exercise into the 
-whiteboarding environment (CodePen), take the examples that they provide and 
-create doctests with them. Explain the choice of creating tests in proximity of 
+This kind of testing also can help with an interview process, typically
+interviewers are looking for developers to mention testing the code that they
+write (it's probably one of those checkbox item things don't ask me I dont
+interview much ha!). When your interviewer is sharing the exercise into the
+whiteboarding environment (CodePen), take the examples that they provide and
+create doctests with them. Explain the choice of creating tests in proximity of
 the definition, and why it's useful.
 
 During the preliminary interview process you might be able to probe to find out
-what whiteboarding tools the company uses. One such application is 
-[CoderPad](https://app.coderpad.io/sandbox), checkout the sandbox to test what 
+what whiteboarding tools the company uses. One such application is
+[CoderPad](https://app.coderpad.io/sandbox), checkout the sandbox to test what
 works.
 
-In CoderPad you can paste this at the end of the editor, and it should perform 
-the doctests every time you save the file. Alternatively you can paste the code 
+In CoderPad you can paste this at the end of the editor, and it should perform
+the doctests every time you save the file. Alternatively you can paste the code
 into the python console (annoying UX have to keep copy and pasting).
+
 ```python
 # Make sure to copy the function `parse_string` from above
 >>>  import doctest; doctest.testmod(name='parse_string', verbose=True)

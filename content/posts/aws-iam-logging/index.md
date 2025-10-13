@@ -9,10 +9,12 @@ tags:
 ---
 
 # History
+
 The saying goes that developer documentation is full of lies (the words of the great [xbrianh](https://github.com/xbrianh)). The longer I work with Cloud Platforms the more I realize this is true, and that there are strange inconsistencies within the API.
 
-In the case of AWS, you use IAM policies to allow/disallow access to resources/actions between you internal infrastructure. 
-e.g. 
+In the case of AWS, you use IAM policies to allow/disallow access to resources/actions between you internal infrastructure.
+e.g.
+
 ```
 {
     "Version": "2012-10-17",
@@ -28,4 +30,4 @@ e.g.
 }
 ```
 
-For the most part these are manually managed, when you want to use a resource, you have to define the policy that 
+For the most part these are manually managed, when you want to use a resource, you have to define the policy that

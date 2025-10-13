@@ -4,6 +4,7 @@ date: 2024-08-12T23:38:49-07:00
 tags:
 	- public
 ---
+
 ## What is it?
 
 Issues are a starting point for a observed problem with software.
@@ -12,7 +13,7 @@ Issues are a starting point for a observed problem with software.
 
 Bad issues can be incomplete, difficult to follow, or don't clearly express the problem at hand.
 
-## What makes a good issue? 
+## What makes a good issue?
 
 1. Keep it structured.
 2. Give all the details (starting from the top).
@@ -37,10 +38,11 @@ $ make build
 (600 lines later)
 ERROR: YOU BROKE IT
 </p>
-</details> 
+</details>
 ```
 
-e.g 
+e.g
+
 <details><summary>Execution</summary>
 <p>
 $ make build
@@ -48,6 +50,6 @@ $ make build
 (600 lines later)
 ERROR: YOU BROKE IT
 </p>
-</details> 
+</details>
 
-Consider stashing this into your [`Saved Replies` ](https://github.com/settings/replies) so you don't have to google it. 
+Consider stashing this into your [`Saved Replies` ](https://github.com/settings/replies) so you don't have to google it.
