@@ -21,7 +21,12 @@ e.g.
 
 ```typescript
 // Configuration
-const CONFIG = { webAclName: "your-web-acl-name", webAclId: "your-web-acl-id", region: "us-east-1", scope: "REGIONAL" as Scope, // or "CLOUDFRONT" };
+const CONFIG = {
+  webAclName: "your-web-acl-name",
+  webAclId: "your-web-acl-id",
+  region: "us-east-1",
+  scope: "REGIONAL" as Scope, // or "CLOUDFRONT"
+};
 ```
 
 Adding noise in the code with `// Configuration` is a cardinal sin, and if you write with comments like this you deserve to be forced into self-flagellation.
