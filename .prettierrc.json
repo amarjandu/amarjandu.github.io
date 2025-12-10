@@ -1,0 +1,11 @@
+{
+  "plugins": ["prettier-plugin-hugo-post"],
+  "overrides": [
+    {
+      "files": ["content/**/*.md", "*.md", "*.hugo"],
+      "options": {
+        "parser": "hugo-post"
+      }
+    }
+  ]
+}
