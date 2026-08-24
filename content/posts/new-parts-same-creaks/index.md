@@ -27,7 +27,7 @@ So we did what any reasonable person does with sunk-cost... They bust out the TI
 
 The fitment of the radiator was shit, the functionality was very nice, it keeps the whole thing under temp, the fan really does not turn on... But we shall see on the track how it performs.
 
-![cruising](Attachments/Screenshot%202026-01-25%20at%202.02.36%20PM.png)
+![cruising](Screenshot%202026-01-25%20at%202.02.36%20PM.png)
 
 Overall the car is crisp, with precise steering input. There will be another stage of work done on the car, I would like to replace some of the rear bushings, and maybe, just maybe throw some coilovers on the car for better "driveability" on the street.
 
