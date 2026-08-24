@@ -18,15 +18,15 @@ I wanted to reinstall it as the new user onto the machine, I had nuked the other
 
 Upon attempting to install I ran into a little uBlock origin ClickJack alert (My first time!)
 
-![first-alert!](Attachments/Screenshot%202026-08-23%20at%207.22.25%20PM%201.png)
+![first-alert!](Screenshot%202026-08-23%20at%207.22.25%20PM%201.png)
 
 oh the paranoia started, I ran back to duckduckgo, and checked the search, maybe I in-fact was on the wrong site.
 
-![wut](Attachments/PNG%20image%201.png)
+![wut](PNG%20image%201.png)
 
 uhhh...
 
-![why](Attachments/PNG%20image%202.png)
+![why](PNG%20image%202.png)
 
 Thats a little weird...
 This lead me down a rabbit-hole, which one is the real one?
