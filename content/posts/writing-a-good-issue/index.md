@@ -42,7 +42,6 @@ ERROR: YOU BROKE IT
 ```
 
 e.g
-
 <details><summary>Execution</summary>
 <p>
 $ make build
